@@ -2,6 +2,8 @@
 
 Simple sign-up log-in process using php in which it also checks the strength of the password upto four level from weak to very strong and validate the sign-up users to log-in later.
 
+Use registration.sql file to creaate database in phpmyadmin and download the clone to test.
+
 
 
 ## Screenshots
